@@ -19,7 +19,14 @@ We use the [`kiwix-tools`](https://github.com/kiwix/kiwix-tools) for management 
 
 ### Content
 
-For ZIM files, see [Content in all languages](https://wiki.kiwix.org/wiki/Content_in_all_languages) in the Kiwix wiki.
+For ZIM files, see..
+
+* [Various sites](https://wiki.kiwix.org/wiki/Content_in_all_languages) in the Kiwix wiki
+	- Inc: Wikipedia and other Wiki- sites, TED talks, Stack Exchange sites, Khan Academy, various other sites.
+	- Or as a [Google Sheet](https://docs.google.com/spreadsheets/d/1lWXdwy3OIfZ1Ob2cQR707OMHSva3khTcAXZE9MK9ad8/edit#gid=552567720)
+* [Project Gutenberg](https://ebookfoundation.org/openzim.html) modules
+	- Over 60,000 free eBooks
+* [Zimit](https://youzim.it/) online tool that generates ZIM files from arbitary websites
 
 ## Environment Vars
 
